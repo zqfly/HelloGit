@@ -1,5 +1,5 @@
 # HelloGit
 
-����һ��Git��ʹ����ϰ��Ŀ
+这是一个Git的使用练习项目
 
 This is a test.
