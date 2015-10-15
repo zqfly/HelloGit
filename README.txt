@@ -1,3 +1,5 @@
 # HelloGit
 
-这是一个Git的使用练习项目
+锟斤拷锟斤拷一锟斤拷Git锟斤拷使锟斤拷锟斤拷习锟斤拷目
+
+This is a test.
